@@ -18,7 +18,7 @@ resources to best render service at unprecedented times.
 
 ## Walkthrough
 To run the app:<br>
-``` streamlit run Home.py``` (in the main directory)<br>
+```streamlit run Home.py``` (in the main directory)<br>
 To view the patient database hosted on ethereum blockchain <br>
 ``` launch ganache ```<br>
 ``` signup/login a account in metamask ```<br>
